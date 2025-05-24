@@ -8,7 +8,7 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/city-seal.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
