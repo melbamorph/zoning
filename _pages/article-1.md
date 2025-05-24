@@ -1,8 +1,6 @@
 ---
 title: "Article I – Introduction"
 permalink: /article-1/
-layout: default
-nav_enabled: true
 ---
 
 ## Section 100 – Title {#section-100}
