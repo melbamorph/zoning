@@ -1,5 +1,5 @@
 ---
-title: "Article 2"
+title: "Article II – General Provisions"
 permalink: /article-2/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Article 5"
+title: "Article 5 – Placeholder"
 permalink: /article-5/
 ---
 
