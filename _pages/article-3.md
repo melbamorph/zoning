@@ -1,5 +1,5 @@
 ---
-title: "Article 3 – Placeholder"
+title: "Article III – Use Districts"
 permalink: /article-3/
 ---
 
