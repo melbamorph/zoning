@@ -1,6 +1,9 @@
 amotitle: City of Lebanon, NH Zoning Ordinance (Beta)
 description: Exploring the use of Github Pages for our zoning ordinance.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - just-the-docs
 
 url: https://melbamorph.github.io/zoning
 
