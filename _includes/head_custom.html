@@ -1,0 +1,26 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var toggle = document.getElementById('theme-toggle');
+    function updateText(theme) {
+      if (toggle) {
+        toggle.textContent = theme === 'dark' ? 'Light Mode' : 'Dark Mode';
+      }
+    }
+    var stored = localStorage.getItem('theme');
+    if (stored) {
+      jtd.setTheme(stored);
+      updateText(stored);
+    } else {
+      updateText(jtd.getTheme());
+    }
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        var current = jtd.getTheme();
+        var next = current === 'dark' ? 'default' : 'dark';
+        jtd.setTheme(next);
+        localStorage.setItem('theme', next);
+        updateText(next);
+      });
+    }
+  });
+</script>
