@@ -10,11 +10,14 @@ The pages in the `_pages/` directory mirror sections of the ordinance so that th
 
 The site also includes an optional **dark mode**. Use the toggle in the sidebar footer to switch between light and dark themes.
 
+
 ## Building Locally
 
 1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io).
 2. Run `bundle install`.
 3. Run `bundle exec jekyll serve` and open `http://localhost:4000` to preview the site.
+
+If you encounter an error stating that the `just-the-docs` theme could not be found, make sure you are running Jekyll via Bundler so the required gems are loaded.
 
 ## License
 
