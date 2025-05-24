@@ -8,7 +8,8 @@ For the legally binding ordinance, visit [https://lebanonnh.gov/zoningordinance]
 
 The pages in the `_pages/` directory mirror sections of the ordinance so that they can be viewed using the Just the Docs theme. Content here may be incomplete or outdated as we test formatting and workflow options.
 
-The site also includes an optional **dark mode**. Use the toggle in the page header to switch between light and dark themes.
+The site also includes an optional **dark mode**. Use the toggle in the sidebar footer to switch between light and dark themes.
+
 
 ## Building Locally
 
