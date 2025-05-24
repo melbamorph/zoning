@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://melbamorph.github.io/zoning
 
+# Include additional directories when building the site
+include:
+  - _pages
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   
