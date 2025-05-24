@@ -1,5 +1,5 @@
 ---
-title: "Article 10 – Placeholder"
+title: "Article X – Miscellaneous Provisions"
 permalink: /article-10/
 ---
 

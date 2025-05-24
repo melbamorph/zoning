@@ -1,5 +1,5 @@
 ---
-title: "Article 9 – Placeholder"
+title: "Article IX – Administration and Enforcement"
 permalink: /article-9/
 ---
 

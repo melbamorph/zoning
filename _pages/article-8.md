@@ -1,5 +1,5 @@
 ---
-title: "Article 8 – Placeholder"
+title: "Article VIII – Board of Adjustment"
 permalink: /article-8/
 ---
 

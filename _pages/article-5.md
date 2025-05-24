@@ -1,5 +1,5 @@
 ---
-title: "Article 5 – Placeholder"
+title: "Article V – Subdivisions and Planned Developments"
 permalink: /article-5/
 ---
 

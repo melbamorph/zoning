@@ -1,5 +1,5 @@
 ---
-title: "Article 7 – Placeholder"
+title: "Article VII – Non-conformities"
 permalink: /article-7/
 ---
 

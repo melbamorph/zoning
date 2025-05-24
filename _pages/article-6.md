@@ -1,5 +1,5 @@
 ---
-title: "Article 6 – Placeholder"
+title: "Article VI – Additional Standards for Specific Uses"
 permalink: /article-6/
 ---
 
