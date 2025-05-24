@@ -16,6 +16,8 @@ The site also includes an optional **dark mode**. Use the toggle in the page hea
 2. Run `bundle install`.
 3. Run `bundle exec jekyll serve` and open `http://localhost:4000` to preview the site.
 
+If you encounter an error stating that the `just-the-docs` theme could not be found, make sure you are running Jekyll via Bundler so the required gems are loaded.
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
