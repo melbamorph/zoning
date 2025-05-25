@@ -19,6 +19,19 @@ The site also includes an optional **dark mode**. Use the toggle in the sidebar 
 
 If you encounter an error stating that the `just-the-docs` theme could not be found, make sure you are running Jekyll via Bundler so the required gems are loaded.
 
+If you rely on GitHub Pages' default build process instead of the provided
+`pages.yml` workflow, configure the theme as a *remote theme* so that the Pages
+runner can locate it:
+
+```yaml
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+```
+
+Without this configuration GitHub Pages cannot download the theme and the build
+will fail with the message "The just-the-docs theme could not be found."
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
