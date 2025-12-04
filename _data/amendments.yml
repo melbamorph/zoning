@@ -1,0 +1,29 @@
+# Track pending and effective amendments to the ordinance.
+# Fields: id (unique), article, section(s), status (pending/effective), type, summary, vote_date,
+# effective_date (when text is enforceable), docs (supporting links), pr (GitHub PR link).
+- id: 2024-01
+  article: Article III
+  sections: ["Section 309.2", "Section 309.3"]
+  status: pending
+  type: text amendment
+  summary: Update Riverfront district setbacks and add design standards for riverwalk frontage.
+  vote_date: 2024-05-15
+  effective_date: TBD
+  docs:
+    - title: Planning Board packet
+      url: https://lebanonnh.gov/example-packet
+    - title: Public hearing notice
+      url: https://lebanonnh.gov/example-notice
+  pr: https://github.com/melbamorph/zoning/pull/123
+- id: 2024-02
+  article: Article VI
+  sections: ["Section 607.4"]
+  status: effective
+  type: administration
+  summary: Clarify procedures for temporary event permits.
+  vote_date: 2024-03-12
+  effective_date: 2024-04-01
+  docs:
+    - title: Adopted amendment PDF
+      url: https://lebanonnh.gov/example-adopted
+  pr: https://github.com/melbamorph/zoning/pull/124
