@@ -7,6 +7,9 @@ layout: home
 
 Welcome! This site provides an experimental, online presentation of the City of Lebanon, New Hampshire Zoning Ordinance. Content here may be incomplete or outdated as we test formatting options. For the official ordinance, please visit [the City of Lebanon website](https://lebanonnh.gov/zoningordinance).
 
+- [Recent and pending amendments](/amendments/)
+- [How to update this site (staff guide)](/how-to-update/)
+
 ## Articles
 
 - [Article I – Introduction](/article-1/)

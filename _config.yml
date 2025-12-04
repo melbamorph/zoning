@@ -3,6 +3,8 @@ description: Exploring the use of Github Pages for our zoning ordinance.
 remote_theme: just-the-docs/just-the-docs
 repository: melbamorph/zoning
 url: https://melbamorph.github.io/zoning
+ordinance_pdf_url: https://lebanonnh.gov/DocumentCenter/View/805/Current-Zoning-Ordinance-PDF
+ordinance_pdf_published: "2024-01-01"
 
 
 # Include additional directories when building the site
